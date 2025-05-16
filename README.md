@@ -1,1 +1,9 @@
-<img width="177" alt="image" src="https://github.com/user-attachments/assets/834d2ff8-d92b-4953-bc7d-82360bf1353b" />
+<br>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/834d2ff8-d92b-4953-bc7d-82360bf1353b"  width="140px" alt="HearSitter Logo" />
+</p>
+
+<h1 align="center">VOICE BRIDGE</h1>
+
+<br>
