@@ -26,7 +26,7 @@ SolarC is an AI-driven solution designed to enhance healthcare accessibility for
 - UV Exposure Management: Provides real-time UV index data and personalized warnings for sun protection.
 
 ## 📱 How to run our app service
-- [SolarC apk download link][(https://drive.google.com/drive/u/0/folders/1OdnLlDRYL2huVHvX8ez1tTuez7Xa7YSX)](https://drive.google.com/drive/folders/1pzuCWMWWPgkRfc13wPaOTt-7bwnggEbE)]
+- [SolarC apk download link][(https://drive.google.com/drive/u/0/folders/1OdnLlDRYL2huVHvX8ez1tTuez7Xa7YSX)](https://drive.google.com/drive/folders/1pzuCWMWWPgkRfc13wPaOTt-7bwnggEbE)
 - Install the apk file on your android smartphone.
 
 ## Architecture
