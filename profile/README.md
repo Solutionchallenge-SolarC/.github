@@ -19,14 +19,19 @@ SolarC is an AI-driven solution designed to enhance healthcare accessibility for
 
   
 ## 🔑 Key Features
-- AI-Powered Skin Condition Identification: EfficientNetB0 model analyzes skin images for condition detection.
-- Interactive Chatbot with Questionnaire: Personalized guidance based on user responses.
-- Voice Guidance: Text-to-speech and speech-to-text for elderly users.
-- Hospital Search & Telemedicine Integration: Seamlessly connects users with nearby hospitals and healthcare professionals via Jitsi Meet.
-- UV Exposure Management: Provides real-time UV index data and personalized warnings for sun protection.
+### 📷 AI-Powered Skin Condition Identification
+- EfficientNetB0 model analyzes skin images for condition detection.
+### :dependabot: Interactive Chatbot with Questionnaire
+- Personalized guidance based on user responses.
+### 🔈 Voice Guidance
+- Text-to-speech and speech-to-text for elderly users.
+### 🏥 Hospital Search & Telemedicine Integration
+- Seamlessly connects users with nearby hospitals and healthcare professionals via Jitsi Meet.
+### 😎 UV Exposure Management
+- Provides real-time UV index data and personalized warnings for sun protection.
 
 ## 📱 How to run our app service
-- [SolarC apk download link][(https://drive.google.com/drive/u/0/folders/1OdnLlDRYL2huVHvX8ez1tTuez7Xa7YSX)](https://drive.google.com/drive/folders/1pzuCWMWWPgkRfc13wPaOTt-7bwnggEbE)
+- [SolarC apk download link](https://drive.google.com/drive/u/0/folders/1OdnLlDRYL2huVHvX8ez1tTuez7Xa7YSX)
 - Install the apk file on your android smartphone.
 
 ## Architecture
