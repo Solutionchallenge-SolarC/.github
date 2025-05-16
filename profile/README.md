@@ -59,4 +59,3 @@ This data is used to train the **EfficientNetB0** model to detect skin condition
 - [SolarC apk download link](https://drive.google.com/drive/u/0/folders/1OdnLlDRYL2huVHvX8ez1tTuez7Xa7YSX)
 - Install the apk file on your android smartphone.
 
-## Architecture
