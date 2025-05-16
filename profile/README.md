@@ -8,9 +8,9 @@
 
 <br>
 
-
 <br>
 SolarC is an AI-driven solution designed to enhance healthcare accessibility for underserved rural communities and elderly individuals. It provides comprehensive skin health management, empowering users with accessible diagnostics, proactive sun protection, and seamless telemedicine.
+
 
 ## 🌻 Purpose
 - Promote Early Intervention: Detect skin issues early with AI-powered analysis.
