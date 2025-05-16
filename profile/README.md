@@ -1,10 +1,13 @@
 <br>
 
 <p align="center">
-<img src="" />
+<img src="https://github.com/user-attachments/assets/834d2ff8-d92b-4953-bc7d-82360bf1353b"  width="140px" alt="HearSitter Logo" />
 </p>
 
-<h1 align="center">VOICE BRIDGE</h1>
+<h1 align="center">SolarC</h1>
+
+<br>
+
 
 <br>
 SolarC is an AI-driven solution designed to enhance healthcare accessibility for underserved rural communities and elderly individuals. It provides comprehensive skin health management, empowering users with accessible diagnostics, proactive sun protection, and seamless telemedicine.
